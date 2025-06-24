@@ -11,3 +11,5 @@ The dataset sourced from Kaggle - AV : Healthcare Analytics II contains almost 3
 Research Questions I aim to answer in this project:
 Is there a significant difference in admission deposits between different hospital types and severity of illness?
 In other words, how do Hospital Type, City Code, severity of illness and Age influence admission deposits?
+
+**Please refer to the ipynb file in this repo for more details on code and the project**
